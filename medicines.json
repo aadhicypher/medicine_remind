@@ -1,0 +1,28 @@
+[
+  {
+    "username": "adithyan",
+    "name": "asprin",
+    "dosages": [
+      {
+        "dosage": "300",
+        "times": [
+          "08:00"
+        ]
+      }
+    ]
+  },
+  {
+    "username": "adithyan",
+    "name": "paracetamol",
+    "dosages": [
+      {
+        "dosage": "500",
+        "times": [
+          "08:00",
+          "12:00",
+          "16:00"
+        ]
+      }
+    ]
+  }
+]
